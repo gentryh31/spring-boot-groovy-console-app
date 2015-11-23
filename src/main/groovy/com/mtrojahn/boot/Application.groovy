@@ -1,4 +1,4 @@
-package org.example
+package com.mtrojahn.boot
 
 import org.springframework.boot.Banner
 import org.springframework.boot.autoconfigure.SpringBootApplication
